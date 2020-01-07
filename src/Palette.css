@@ -4,5 +4,15 @@
 }
 
 .Palette-colors {
-  height: 90%;
+  height: 89%;
+}
+
+.Palette-footer {
+  background-color: white;
+  height: 5vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+  margin: 0 1rem;
 }
