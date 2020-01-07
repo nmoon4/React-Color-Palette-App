@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-// import './App.css';
 import Palette from './Palette.js';
 import seedColors from './seedColors.js';
 import {generatePalette} from './colorHelpers';
